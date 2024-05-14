@@ -1,7 +1,7 @@
 # OCCPHT005PracticeExercise1
-For Practice Exercise 1 - 14 May 2024
-This is a readme file for a practice exercise on Git and Github
-Nevertheless, here is a sample readme file:
+For Practice Exercise 1 - 14 May 2024.
+This is a readme file for a practice exercise on Git and Github.
+Here is a sample readme file:
 
 
 
